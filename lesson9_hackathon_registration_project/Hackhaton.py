@@ -1,6 +1,8 @@
 import json 
 import os
 
+print("Hello World")
+
 admin_login = "admin01"
 admin_password = "1111"
 
