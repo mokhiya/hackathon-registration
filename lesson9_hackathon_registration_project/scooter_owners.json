@@ -1,0 +1,21 @@
+[
+    {
+        "username": "mohi",
+        "password": "mohi"
+    },
+    {
+        "username": "mohi",
+        "password": "mohi"
+    },
+    {
+        "username": "mohi",
+        "password": "mohi"
+    },
+    {
+        "id": 94,
+        "battery": "36",
+        "location": "Tashkent",
+        "model_name": "m12",
+        "price_per_minute": "12000"
+    }
+]
